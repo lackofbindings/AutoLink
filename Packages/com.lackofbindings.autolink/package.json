@@ -1,0 +1,20 @@
+{
+  "name": "com.lackofbindings.autolink",
+  "displayName": "AutoLink",
+  "description": "Automatic threshold and gain adjustment for AudioLink",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "author": {
+    "name": "lackofbindings",
+    "url": "https://github.com/lackofbindings"
+  },
+  "legacyFolders": {
+    "Assets\\AutoLink" : "faf9e5c175e91e44b94f9b54062634a5"
+  },
+  "legacyFiles": {},
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "^3.5.0",
+    "com.llealloo.audiolink": "^1.2.1"
+  }
+}
