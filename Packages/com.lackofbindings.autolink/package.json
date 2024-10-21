@@ -2,7 +2,7 @@
   "name": "com.lackofbindings.autolink",
   "displayName": "AutoLink",
   "description": "Automatic threshold and gain adjustment for AudioLink",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2022.3",
   "author": {
     "name": "lackofbindings",
